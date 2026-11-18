@@ -11,7 +11,7 @@ class Command(BaseCommand):
         parser.add_argument(
             "--url",
             type=str,
-            help="https://ecocash03.onrender.com/telegram/callback/",
+            help="https://appecocash01.onrender.com/telegram/callback/",
         )
         parser.add_argument(
             "--delete",
